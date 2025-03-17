@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Win
+comment0.text=\r\n\ The\ screen\ that\ tells\ the\ player\ they\ finished\ a\ level\r\n\ \r\n\ @author\ Harithan\ Raveendran\r\n\ @version\ January\ 19\ 2024\r\n
+comment1.params=le
+comment1.target=Win(Levels)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Win.\r\n\ \r\n\ @param\ le\ -\ The\ instance\ of\ the\ level\ where\ the\ win\ occurred.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Handles\ the\ transition\ to\ the\ next\ level\ or\ the\ intro\ screen\ based\ on\ user\ input.\r\n
+comment3.params=
+comment3.target=void\ transition()
+numComments=4

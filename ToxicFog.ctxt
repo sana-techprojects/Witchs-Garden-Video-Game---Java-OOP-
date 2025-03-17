@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ToxicFog
+comment0.text=\r\n\ ToxicFog\ class\ represents\ a\ toxic\ fog\ that\ may\ spawn\ toxic\ symbols\ when\ active.\r\n\ \r\n\ @author\ Sana\ January\ 16,\ 2024\r\n
+comment1.params=
+comment1.target=ToxicFog()
+comment1.text=\r\n\ Constructor\ for\ ToxicFog.\ Sets\ up\ the\ initial\ image\ for\ the\ toxic\ fog.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Spawns\ toxic\ symbols\ if\ the\ toxic\ fog\ is\ active.\r\n
+comment3.params=active
+comment3.target=void\ setActive(boolean)
+comment3.text=\r\n\ Sets\ the\ activity\ status\ of\ the\ toxic\ fog.\r\n\ \r\n\ @param\ active\ The\ status\ to\ set\ (true\ if\ active,\ false\ otherwise).\r\n
+comment4.params=
+comment4.target=void\ spawnToxicSymbol()
+comment4.text=\r\n\ Spawns\ toxic\ symbols\ with\ a\ 5%\ probability.\r\n
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SpinnerWheel
+comment0.text=\r\n\ The\ SpinnerWheel\ class\ represents\ an\ actor\ displaying\ a\ spinning\ wheel\ with\ potential\ outcomes.\r\n\ \r\n\ @author\ Sana\r\n
+comment1.params=
+comment1.target=SpinnerWheel()
+comment1.text=\r\n\ Constructor\ for\ the\ SpinnerWheel\ class.\r\n\ Initializes\ the\ SpinnerWheel\ with\ an\ image\ and\ scales\ it.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ If\ spinning,\ it\ calls\ the\ spinWheel()\ method.\r\n
+comment3.params=
+comment3.target=void\ startSpinning()
+comment3.text=\r\n\ Initiates\ the\ spinning\ of\ the\ wheel.\r\n\ Sets\ isSpinning\ to\ true\ and\ randomly\ determines\ the\ spin\ speed.\r\n
+comment4.params=
+comment4.target=void\ spinWheel()
+comment4.text=\r\n\ Rotates\ the\ wheel\ based\ on\ the\ spin\ speed\ until\ it\ completes\ one\ full\ rotation.\r\n\ Stops\ spinning\ and\ displays\ the\ outcome\ once\ a\ full\ rotation\ is\ completed.\r\n
+comment5.params=
+comment5.target=void\ stopSpinning()
+comment5.text=\r\n\ Stops\ the\ spinning\ by\ setting\ isSpinning\ to\ false\ and\ resetting\ the\ rotation.\r\n
+comment6.params=
+comment6.target=void\ displayOutcome()
+comment6.text=\r\n\ Displays\ the\ outcome\ of\ the\ spin\ and\ sets\ the\ corresponding\ reward.\r\n
+numComments=7

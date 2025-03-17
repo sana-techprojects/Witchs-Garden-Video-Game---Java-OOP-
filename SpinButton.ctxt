@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SpinButton
+comment0.text=\r\n\ The\ SpinButton\ class\ represents\ a\ button\ that,\ when\ clicked,\ starts\ spinning\ a\ SpinnerWheel.\r\n\ The\ button\ has\ an\ associated\ SpinnerWheel\ instance.\r\n\ \r\n\ @author\ Sana\r\n
+comment1.params=spinner
+comment1.target=SpinButton(SpinnerWheel)
+comment1.text=\r\n\ Constructor\ for\ the\ SpinButton\ class.\r\n\ Initializes\ the\ SpinButton\ with\ a\ given\ SpinnerWheel.\r\n\ \r\n\ @param\ spinner\ The\ associated\ SpinnerWheel\ instance.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ It\ checks\ for\ mouse\ clicks\ on\ the\ button.\r\n
+comment3.params=
+comment3.target=void\ checkMouseClick()
+comment3.text=\r\n\ Checks\ for\ a\ mouse\ click\ on\ the\ button.\r\n\ If\ the\ button\ is\ clicked\ and\ not\ already\ spinning,\ it\ starts\ the\ spinning\ process.\r\n
+comment4.params=
+comment4.target=void\ startSpinning()
+comment4.text=\r\n\ Initiates\ the\ spinning\ process.\r\n\ Sets\ the\ isSpinning\ flag\ to\ true\ and\ starts\ the\ spinning\ of\ the\ associated\ SpinnerWheel.\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tutorial
+comment0.text=\r\n\ The\ world\ that\ provides\ a\ tutorial\ for\ the\ game.\r\n\ It\ explains\ various\ aspects\ of\ gameplay\ to\ the\ player.\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tutorial()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tutorial.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ when\ the\ act\ button\ is\ pressed.\r\n\ It\ handles\ key\ events\ to\ navigate\ to\ other\ screens.\r\n
+comment3.params=
+comment3.target=void\ started()
+comment3.text=\r\n\ Called\ when\ the\ world\ is\ started.\r\n\ It\ plays\ background\ music.\r\n
+comment4.params=
+comment4.target=void\ stopped()
+comment4.text=\r\n\ Called\ when\ the\ world\ is\ stopped.\r\n\ It\ stops\ background\ music.\r\n
+comment5.params=
+comment5.target=void\ handleKeyEvents()
+comment5.text=\r\n\ Handles\ key\ events\ to\ navigate\ to\ other\ screens.\r\n
+numComments=6

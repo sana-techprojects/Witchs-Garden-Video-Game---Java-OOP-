@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sunflower
+comment0.text=\r\n\ This\ class\ creates\ a\ new\ Sunflower\ object\ when\ needed\ and\ sets\ it\ properly\ on\ a\ given\ cell.\r\n\ Extends\ the\ Plants\ class\ and\ provides\ additional\ functionality\ for\ Sunflower.\r\n\ \r\n\ @author\ Sana\ Pardiwala,\ Harithan\ Raveendran\r\n\ @version\ January\ 19,\ 2024\r\n
+comment1.params=
+comment1.target=Sunflower()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sunflower.\r\n\ Initializes\ default\ values,\ images,\ and\ animation\ parameters.\r\n\ \r\n\ @return\ void\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ Handles\ animation,\ sun\ generation,\ and\ superclass\ act.\r\n\ \r\n\ @return\ void\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ToxicSymbol
+comment0.text=\r\n\ ToxicSymbol\ class\ represents\ a\ toxic\ symbol\ that\ falls\ when\ spawned\ by\ the\ ToxicFog.\r\n\ \r\n\ @author\ Sana\r\n\ @version\ January\ 16,\ 2024\r\n
+comment1.params=
+comment1.target=ToxicSymbol()
+comment1.text=\r\n\ Constructor\ for\ ToxicSymbol.\ Sets\ up\ the\ initial\ image\ for\ the\ toxic\ symbol.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Moves\ the\ toxic\ symbol\ downwards\ and\ resets\ its\ position\ when\ it\ reaches\ the\ bottom.\r\n
+numComments=3

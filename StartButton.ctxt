@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StartButton
+comment0.text=\r\n\ The\ StartButton\ class\ represents\ a\ button\ to\ start\ the\ game.\r\n\ \r\n\ Author\:\ Rebecca\r\n
+comment1.params=
+comment1.target=void\ StartButton()
+comment1.text=\r\n\ Constructor\ for\ the\ StartButton\ class.\r\n\ Sets\ the\ image\ of\ the\ button.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ It\ checks\ for\ mouse\ clicks\ on\ the\ StartButton.\r\n\ If\ clicked,\ it\ transitions\ to\ the\ Intro\ world\ and\ stops\ the\ background\ music.\r\n
+numComments=3

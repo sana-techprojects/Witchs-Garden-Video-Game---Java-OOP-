@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Walnut
+comment0.text=\r\n\ Represents\ a\ Wallnut\ object\ in\ the\ game.\r\n\ Extends\ the\ Plants\ class\ and\ provides\ specific\ functionality\ for\ Wallnut.\r\n\ \r\n\ @Sana\ Pardiwala\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Walnut()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Wallnut.\r\n\ Initializes\ default\ values\ and\ sets\ the\ image.\r\n\ \r\n\ @return\ void\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ Handles\ any\ specific\ behavior\ for\ the\ Wallnut\ and\ calls\ the\ superclass\ act.\r\n\ \r\n\ @return\ void\r\n
+numComments=3

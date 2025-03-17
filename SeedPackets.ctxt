@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SeedPackets
+comment0.text=\r\n\ Represents\ the\ abstract\ class\ for\ seed\ packets\ in\ the\ game.\r\n\ Seed\ packets\ are\ used\ to\ purchase\ and\ plant\ different\ types\ of\ plants.\r\n\ \r\n\ @author\ Sana\ Pardiwala,\ Vincent\ Wu\r\n\ @version\ January\ 9th\ 2024\r\n
+comment1.params=
+comment1.target=SeedPackets()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SeedPackets.\r\n\ Initializes\ the\ selected\ flag\ to\ false.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ SeedPackets\ wants\ to\ do.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ setA()
+comment3.text=\r\n\ Set\ the\ image\ for\ the\ seed\ packet\ to\ the\ first\ image.\r\n
+comment4.params=
+comment4.target=void\ setB()
+comment4.text=\r\n\ Set\ the\ image\ for\ the\ seed\ packet\ to\ the\ second\ image.\r\n
+comment5.params=
+comment5.target=int\ getCost()
+comment5.text=\r\n\ Get\ the\ cost\ of\ the\ seed\ packet.\r\n\ \r\n\ @return\ The\ cost\ of\ the\ seed\ packet.\r\n
+comment6.params=
+comment6.target=void\ plant()
+comment6.text=\r\n\ Abstract\ method\ to\ be\ implemented\ by\ subclasses.\r\n\ It\ represents\ the\ action\ to\ plant\ a\ specific\ type\ of\ plant.\r\n
+numComments=7

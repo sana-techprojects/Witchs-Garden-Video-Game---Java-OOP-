@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SpinWheelMiniGame
+comment0.text=\r\n\ SpinWheelMiniGame\ represents\ the\ mini-game\ where\ the\ player\ can\ spin\ a\ wheel\r\n\ to\ get\ an\ outcome\ amount.\r\n\ \r\n\ @author\ Sana\r\n\ @version\ January\ 23rd\r\n
+comment1.params=
+comment1.target=SpinWheelMiniGame()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SpinWheelMiniGame.\r\n
+comment2.params=
+comment2.target=int\ getOutcomeAmount()
+comment2.text=\r\n\ Get\ the\ outcome\ amount.\r\n\ \r\n\ @return\ int\ -\ The\ outcome\ amount.\r\n
+comment3.params=amount
+comment3.target=void\ setOutcomeAmount(int)
+comment3.text=\r\n\ Set\ the\ outcome\ amount.\r\n\ \r\n\ @param\ amount\ -\ The\ outcome\ amount\ to\ be\ set.\r\n
+numComments=4

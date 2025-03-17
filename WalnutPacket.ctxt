@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WalnutPacket
+comment0.text=\r\n\ Represents\ the\ seed\ packet\ for\ Walnuts\ in\ the\ game.\r\n\ Allows\ the\ player\ to\ purchase\ and\ plant\ Walnut\ plants.\r\n\ \r\n\ @author\ Sana\ Pardiwala\r\n\ @version\ January\ 9th\ 2024\r\n
+comment1.params=
+comment1.target=WalnutPacket()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WalnutPacket.\r\n\ Initializes\ the\ cost,\ image\ for\ the\ seed\ packet,\ and\ image\ alternatives.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ WalnutPacket\ wants\ to\ do.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ plant()
+comment3.text=\r\n\ Plant\ a\ Walnut\ in\ the\ world\ when\ the\ packet\ is\ clicked.\r\n
+comment4.params=
+comment4.target=void\ setA()
+comment4.text=\r\n\ Set\ the\ image\ for\ the\ seed\ packet\ to\ the\ first\ image.\r\n
+comment5.params=
+comment5.target=void\ setB()
+comment5.text=\r\n\ Set\ the\ image\ for\ the\ seed\ packet\ to\ the\ second\ image.\r\n
+comment6.params=
+comment6.target=int\ getCost()
+comment6.text=\r\n\ Get\ the\ cost\ of\ the\ seed\ packet.\r\n\ \r\n\ @return\ int\ -\ The\ cost\ of\ the\ seed\ packet.\r\n
+numComments=7

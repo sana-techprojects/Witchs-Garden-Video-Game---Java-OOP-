@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StandingSun
+comment0.text=\r\n\ Represents\ a\ standing\ sun\ that,\ when\ clicked,\ awards\ points\ to\ the\ SunCollector\ to\ purchase\ plant\ seeds.\r\n\ The\ standing\ sun\ does\ not\ fall\ but\ stays\ in\ its\ initial\ position\ until\ clicked.\r\n\ \r\n\ Note\:\ Assumes\ the\ existence\ of\ an\ image\ file\ named\ "sun1.png"\ for\ visualization.\r\n\ Adjust\ the\ file\ path\ and\ content\ as\ needed.\r\n\ \r\n\ @author\ (Your\ Name)\r\n\ @version\ (A\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=StandingSun()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StandingSun.\r\n\ Initializes\ the\ standing\ sun's\ image.\r\n\ Adjust\ the\ image\ file\ path\ and\ content\ as\ needed.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ standing\ sun.\r\n\ Invokes\ the\ click\ method\ to\ handle\ sun\ click\ behavior.\r\n\ \r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ click()
+comment3.text=\r\n\ Handles\ the\ behavior\ when\ the\ standing\ sun\ is\ clicked.\r\n\ Awards\ points\ to\ the\ SunCollector\ to\ purchase\ plant\ seeds.\r\n\ \r\n\ @return\ void\r\n
+numComments=4

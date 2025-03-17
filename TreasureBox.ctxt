@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TreasureBox
+comment0.text=\r\n\ TreasureBox\ class\ represents\ a\ clickable\ treasure\ box\ that\ can\ open\ a\ mini-game.\r\n\ \r\n\ @version\ January\ 16,\ 2024\r\n
+comment1.params=
+comment1.target=TreasureBox()
+comment1.text=\r\n\ Constructor\ for\ TreasureBox.\ Sets\ up\ the\ initial\ image\ for\ the\ treasure\ box.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Checks\ for\ mouse\ click\ on\ the\ treasure\ box\ and\ opens\ the\ mini-game\ if\ conditions\ are\ met.\r\n
+comment3.params=
+comment3.target=void\ checkForClick()
+comment3.text=\r\n\ Checks\ if\ the\ treasure\ box\ is\ clicked.\ If\ clicked\ and\ the\ user's\ money\ is\ 25\ or\ less,\r\n\ switches\ to\ the\ SpinWheelMiniGame\ world.\r\n
+numComments=4

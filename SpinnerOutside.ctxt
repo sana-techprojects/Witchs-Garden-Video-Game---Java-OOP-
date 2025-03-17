@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SpinnerOutside
+comment0.text=\r\n\ The\ SpinnerOutside\ class\ represents\ an\ actor\ displaying\ the\ outside\ appearance\ of\ a\ spinner.\r\n\ \r\n\ @author\ Sana\r\n
+comment1.params=
+comment1.target=SpinnerOutside()
+comment1.text=\r\n\ Constructor\ for\ the\ SpinnerOutside\ class.\r\n\ Initializes\ the\ SpinnerOutside\ with\ an\ image\ and\ scales\ it.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ Add\ your\ specific\ action\ code\ here\ if\ needed.\r\n
+numComments=3

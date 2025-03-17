@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SunCollector
+comment0.text=\r\n\ The\ class\ keeps\ track\ of\ the\ money\ gained\ through\ clicking\ the\ falling\ suns\ in\ the\ game.\r\n\ \r\n\ Author\:\ Sana\ Pardiwala\r\n\ Version\:\ January\ 1,\ 2024\r\n
+comment1.params=
+comment1.target=SunCollector()
+comment1.text=\r\n\ Constructor\ for\ the\ SunCollector\ class.\r\n\ Sets\ the\ initial\ image.\r\n
+comment2.params=
+comment2.target=int\ getMoney()
+comment2.text=\r\n\ Get\ the\ current\ money\ amount.\r\n\ \r\n\ @return\ int\ -\ The\ current\ money\ amount.\r\n
+comment3.params=amount
+comment3.target=void\ addMoney(int)
+comment3.text=\r\n\ Add\ money\ to\ the\ current\ amount\ and\ update\ the\ image.\r\n\ \r\n\ @param\ amount\ The\ amount\ of\ money\ to\ add.\r\n
+comment4.params=amount
+comment4.target=void\ spendMoney(int)
+comment4.text=\r\n\ Spend\ money\ if\ there\ is\ enough,\ and\ update\ the\ image.\r\n\ \r\n\ @param\ amount\ The\ amount\ of\ money\ to\ spend.\r\n
+comment5.params=
+comment5.target=void\ updateImage()
+comment5.text=\r\n\ Update\ the\ image\ to\ display\ the\ current\ money\ amount\ with\ a\ larger\ font\ size.\r\n
+numComments=6

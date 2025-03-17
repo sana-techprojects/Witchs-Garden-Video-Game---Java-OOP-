@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WandL
+comment0.text=\r\n\ The\ class\ that\ contains\ the\ win\ and\ lose\ screens.\r\n\ \r\n\ @author\ Harithan\ Raveendran\r\n\ @version\ December\ 17\ 2024\r\n
+comment1.params=
+comment1.target=WandL()
+comment2.params=
+comment2.target=void\ addLevel()
+comment2.text=\r\n\ Increases\ the\ level\ by\ one.\r\n
+comment3.params=
+comment3.target=int\ getLevel()
+comment3.text=\r\n\ Retrieves\ the\ current\ game\ level.\r\n\ \r\n\ @return\ int\ -\ The\ current\ level.\r\n
+numComments=4

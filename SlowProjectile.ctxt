@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SlowProjectile
+comment0.text=\r\n\ SlowProjectile\ class\ represents\ a\ version\ of\ the\ normal\ projectile\ that\ slows\ down\ zombies\ when\ hit.\r\n\ \r\n\ @author\ Harithan\ Raveendran\r\n\ @version\ December\ 16,\ 2024\r\n
+comment1.params=image
+comment1.target=SlowProjectile(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ SlowProjectile\ with\ a\ specified\ image.\r\n\ \r\n\ @param\ image\ The\ image\ representing\ the\ projectile.\r\n
+comment2.params=projectileSpeed\ image
+comment2.target=SlowProjectile(int,\ java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ SlowProjectile\ with\ specified\ image\ and\ projectile\ speed.\r\n\ \r\n\ @param\ projectileSpeed\ The\ speed\ at\ which\ the\ projectile\ moves.\r\n\ @param\ image\ The\ image\ representing\ the\ projectile.\r\n
+numComments=3
