@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FallingItems
+comment0.text=\r\n\ Abstract\ class\ representing\ falling\ items\ in\ the\ game.\r\n\ Subclasses\ must\ implement\ the\ click\ method\ to\ handle\ the\ item\ click\ behavior.\r\n\ \r\n\ Note\:\ Assumes\ that\ falling\ items\ move\ vertically\ and\ may\ repeat\ or\ be\ removed\ when\ reaching\ the\ bottom\ of\ the\ world.\r\n\ \r\n\ @author\ (Your\ Name)\r\n\ @version\ (A\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method\ for\ the\ falling\ item.\r\n\ Updates\ the\ item's\ position\ based\ on\ its\ fall\ speed.\r\n\ Checks\ if\ the\ item\ reaches\ the\ bottom\ of\ the\ world\ and\ handles\ repetition\ or\ removal\ accordingly.\r\n\ Invokes\ the\ click\ method\ to\ handle\ item\ click\ behavior.\r\n\ \r\n\ @return\ void\r\n
+comment2.params=
+comment2.target=void\ click()
+comment2.text=\r\n\ Abstract\ method\ to\ be\ implemented\ by\ subclasses.\r\n\ Handles\ the\ behavior\ when\ the\ falling\ item\ is\ clicked.\r\n\ \r\n\ @return\ void\r\n
+numComments=3

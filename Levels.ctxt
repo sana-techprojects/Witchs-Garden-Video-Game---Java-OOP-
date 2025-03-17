@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Levels
+comment0.text=\r\n\ Levels\ class\ represents\ the\ base\ class\ for\ game\ levels.\r\n\ This\ class\ provides\ the\ foundation\ for\ grid-based\ gameplay,\ zombie\ tracking,\ and\ level-specific\ elements.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Levels()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Levels.\r\n\ Initializes\ the\ world\ with\ a\ specified\ size\ and\ adds\ necessary\ objects.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ is\ called\ on\ every\ frame\ update.\r\n\ Monitors\ the\ state\ of\ zombies\ and\ triggers\ GameOver\ if\ needed.\r\n
+comment3.params=
+comment3.target=void\ initializeGrid()
+comment3.text=\r\n\ Initializes\ the\ grid\ layout\ for\ the\ level.\r\n
+comment4.params=
+comment4.target=int\ getLNum()
+comment4.text=\r\n\ Get\ the\ current\ level\ number.\r\n\ \r\n\ @return\ int\ -\ The\ current\ level\ number.\r\n
+numComments=5

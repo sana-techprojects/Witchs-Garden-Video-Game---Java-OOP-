@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\r\n\ Represents\ a\ cell\ in\ a\ 2D\ array\ grid,\ providing\ visualization\ of\ the\ grid.\r\n\ Each\ cell\ can\ be\ occupied\ or\ unoccupied.\r\n\ \r\n\ Note\:\ Assumes\ the\ existence\ of\ an\ image\ file\ named\ "gridsquare.png"\ for\ visualization.\r\n\ Adjust\ the\ image\ file\ and\ size\ as\ needed.\r\n\ \r\n\ @author\ Sana\ Pardiwala\r\n\ @version\ December\ 30,\ 2023\r\n
+comment1.params=
+comment1.target=Cell()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cell.\r\n\ Initializes\ the\ cell\ with\ the\ default\ grid\ image.\r\n
+numComments=2

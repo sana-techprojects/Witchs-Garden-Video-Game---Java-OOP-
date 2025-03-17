@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Opening4
+comment0.text=\r\n\ Opening4\ class\ represents\ the\ fourth\ opening\ scene\ of\ the\ game.\r\n\ This\ class\ sets\ up\ the\ initial\ dialogue\ and\ transitions\ to\ the\ next\ level.\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Opening4()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Opening4.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ is\ called\ on\ every\ frame\ update.\r\n\ Handles\ the\ progression\ of\ dialogue\ and\ transitions\ to\ the\ next\ level.\r\n
+comment3.params=
+comment3.target=void\ started()
+comment3.text=\r\n\ Called\ when\ the\ world\ is\ started.\ Plays\ background\ music.\r\n
+comment4.params=
+comment4.target=void\ stopped()
+comment4.text=\r\n\ Called\ when\ the\ world\ is\ stopped.\ Stops\ background\ music.\r\n
+comment5.params=
+comment5.target=java.lang.String\ nextSentence()
+comment5.text=\r\n\ Get\ the\ next\ dialogue\ sentence.\r\n\ \r\n\ @return\ String\ -\ The\ next\ dialogue\ sentence.\r\n
+numComments=6

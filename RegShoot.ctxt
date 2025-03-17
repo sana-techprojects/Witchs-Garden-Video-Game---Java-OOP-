@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RegShoot
+comment0.text=\r\n\ The\ most\ basic\ peashooter;\ shoots\ one\ pea\ at\ a\ time\ at\ any\ zombies.\r\n\ Extends\ the\ Shooter\ class\ and\ provides\ additional\ functionality\ for\ regular\ shooting.\r\n\ \r\n\ @author\ Harithan\ Raveendran\r\n\ @version\ January\ 19,\ 2024\r\n
+comment1.params=
+comment1.target=RegShoot()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RegShoot.\r\n\ Initializes\ default\ values,\ images,\ and\ animation\ parameters.\r\n\ \r\n\ @return\ void\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ Handles\ animation,\ shooting,\ and\ superclass\ act.\r\n\ \r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ animate()
+comment3.text=\r\n\ Animates\ the\ regular\ peashooter.\r\n\ Handles\ image\ changes\ for\ the\ animated\ regular\ peashooter\ and\ ice\ peashooter.\r\n\ \r\n\ @return\ void\r\n
+comment4.params=
+comment4.target=void\ shoot()
+comment4.text=\r\n\ Shoots\ projectiles\ based\ on\ shooting\ rate\ and\ mode.\r\n\ Overrides\ the\ shoot()\ method\ of\ the\ Shooter\ class.\r\n\ \r\n\ @return\ void\r\n
+comment5.params=
+comment5.target=boolean\ getSlower()
+comment5.text=\r\n\ Gets\ the\ slower\ status\ of\ the\ shooter.\r\n\ \r\n\ @return\ boolean\ Returns\ true\ if\ the\ shooter\ is\ in\ ice\ mode,\ false\ otherwise.\r\n
+comment6.params=slower
+comment6.target=void\ setSlower(boolean)
+comment6.text=\r\n\ Sets\ the\ slower\ status\ of\ the\ shooter.\r\n\ \r\n\ @param\ slower\ The\ slower\ status\ to\ set.\r\n\ @return\ void\r\n
+numComments=7

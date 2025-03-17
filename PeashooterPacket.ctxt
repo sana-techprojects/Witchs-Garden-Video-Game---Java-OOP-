@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PeashooterPacket
+comment0.text=\r\n\ Represents\ the\ seed\ packet\ for\ Peashooter\ plants\ in\ the\ game.\r\n\ Allows\ the\ player\ to\ purchase\ and\ plant\ Peashooter\ plants.\r\n\ \r\n\ @author\ Sana\ Pardiwala,\ Vincent\ Wu\r\n\ @version\ January\ 9th\ 2024\r\n
+comment1.params=
+comment1.target=PeashooterPacket()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PeashooterPacket.\r\n\ Initializes\ the\ cost\ and\ images\ for\ the\ seed\ packet.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ PeashooterPacket\ wants\ to\ do.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ plant()
+comment3.text=\r\n\ Plant\ a\ Peashooter\ in\ the\ world\ when\ the\ packet\ is\ clicked.\r\n
+comment4.params=
+comment4.target=void\ setA()
+comment4.text=\r\n\ Set\ the\ image\ for\ the\ seed\ packet\ to\ the\ first\ image.\r\n
+comment5.params=
+comment5.target=void\ setB()
+comment5.text=\r\n\ Set\ the\ image\ for\ the\ seed\ packet\ to\ the\ second\ image.\r\n
+comment6.params=
+comment6.target=int\ getCost()
+comment6.text=\r\n\ Get\ the\ cost\ of\ the\ seed\ packet.\r\n\ \r\n\ @return\ The\ cost\ of\ the\ seed\ packet.\r\n
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Projectile\ class\ represents\ an\ abstract\ projectile\ in\ the\ game.\r\n\ It\ provides\ common\ functionality\ for\ projectile\ movement\ and\ removal.\r\n\ \r\n\ @author\ Vincent\ Wu\r\n\ Modified\ by\:\ Harithan\r\n\ @version\ January\ 9th\ 2024\r\n
+comment1.params=projectileType
+comment1.target=Projectile(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Projectile\ with\ a\ specified\ projectileType.\r\n\ \r\n\ @param\ projectileType\ The\ type\ of\ projectile,\ used\ to\ determine\ appearance\ and\ behavior.\r\n
+comment2.params=image\ projectileSpeed\ scale
+comment2.target=Projectile(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Constructor\ for\ Projectile\ with\ specified\ image,\ speed,\ and\ scale.\r\n\ \r\n\ @param\ image\ The\ image\ representing\ the\ projectile.\r\n\ @param\ projectileSpeed\ The\ speed\ at\ which\ the\ projectile\ moves.\r\n\ @param\ scale\ The\ scale\ factor\ for\ resizing\ the\ projectile\ image.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ perform\ the\ projectile's\ actions.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ removeProjectile()
+comment4.text=\r\n\ Remove\ the\ projectile\ from\ the\ world\ when\ it\ reaches\ the\ edge\ or\ hits\ a\ target.\r\n
+comment5.params=
+comment5.target=int\ getType()
+comment5.text=\r\n\ Get\ the\ type\ of\ the\ projectile.\r\n\ \r\n\ @return\ int\ -\ The\ type\ of\ the\ projectile\ (1\ for\ normal,\ 2\ for\ ice).\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FallingCoin
+comment0.text=\r\n\ Represents\ a\ coin\ that\ has\ a\ 50%\ chance\ of\ improving\ a\ trait\ of\ the\ peashooters\ or\ a\ trait\ of\ the\ zombies.\r\n\ The\ coin\ falls\ down\ the\ screen,\ and\ when\ clicked,\ it\ randomly\ enhances\ the\ speed\ of\ peashooters\ or\ zombies.\r\n\ \r\n\ Note\:\ Assumes\ the\ existence\ of\ an\ image\ file\ named\ "Coin.png"\ for\ visualization.\ Adjust\ the\ file\ path\ and\ content\ as\ needed.\r\n\ \r\n\ @author\ Harithan\ Raveendran\r\n\ @version\ Jan\ 12,\ 2024\r\n
+comment1.params=
+comment1.target=FallingCoin()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FallingCoin.\r\n\ Initializes\ the\ falling\ speed,\ image,\ and\ repetition\ flag.\r\n\ Adjust\ the\ image\ file\ path\ and\ content\ as\ needed.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ falling\ coin.\r\n\ Delegates\ to\ the\ superclass\ act\ method.\r\n\ \r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ click()
+comment3.text=\r\n\ Handles\ the\ behavior\ when\ the\ falling\ coin\ is\ clicked.\r\n\ Randomly\ enhances\ the\ speed\ of\ peashooters\ or\ zombies\ based\ on\ a\ 50%\ chance.\r\n\ \r\n\ @return\ void\r\n
+numComments=4

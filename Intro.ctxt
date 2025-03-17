@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Intro
+comment0.text=\r\n\ Intro\ class\ represents\ the\ introductory\ world\ in\ the\ game.\r\n\ This\ class\ handles\ the\ display\ of\ opening\ frames\ and\ introductory\ dialogues.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Intro()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Intro.\r\n\ Initializes\ the\ world\ with\ a\ specified\ size\ and\ adds\ necessary\ objects.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ is\ called\ on\ every\ frame\ update.\r\n\ Handles\ user\ input\ for\ progressing\ through\ dialogues\ and\ changing\ frames.\r\n
+comment3.params=
+comment3.target=void\ started()
+comment3.text=\r\n\ Called\ when\ the\ world\ is\ started.\ Plays\ background\ music.\r\n
+comment4.params=
+comment4.target=void\ stopped()
+comment4.text=\r\n\ Called\ when\ the\ world\ is\ stopped.\ Stops\ background\ music.\r\n
+numComments=5

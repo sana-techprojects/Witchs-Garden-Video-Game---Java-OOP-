@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Plants
+comment0.text=\r\n\ Abstract\ class\ representing\ plants\ in\ the\ game.\r\n\ Provides\ common\ functionalities\ and\ attributes\ for\ all\ plant\ types.\r\n\ \r\n\ \r\n\ \r\n\ @Vincent\r\n\ @version\ (A\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Plants()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plants.\r\n\ Initializes\ the\ placed\ flag\ to\ false.\r\n\ \r\n\ @return\ void\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ Plants\ class.\r\n\ Handles\ plant\ movement,\ removal\ if\ health\ is\ zero\ or\ out\ of\ bounds.\r\n\ \r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Handles\ the\ movement\ of\ the\ plant.\r\n\ If\ the\ plant\ is\ not\ placed,\ it\ follows\ the\ mouse\ position.\r\n\ If\ placed,\ it\ checks\ for\ out-of-bounds\ and\ proper\ placement\ on\ the\ grid.\r\n\ \r\n\ @return\ void\r\n
+comment4.params=
+comment4.target=boolean\ outOfBounds()
+comment4.text=\r\n\ Checks\ if\ the\ plant\ is\ out\ of\ bounds\ and\ refunds\ the\ player\ if\ it\ is.\r\n\ \r\n\ @return\ boolean\ Returns\ true\ if\ the\ plant\ is\ out\ of\ bounds,\ false\ otherwise.\r\n
+comment5.params=dAmount
+comment5.target=void\ decreaseH(int)
+comment5.text=\r\n\ Decreases\ the\ health\ of\ the\ plant\ by\ the\ specified\ amount.\r\n\ \r\n\ @param\ dAmount\ Amount\ of\ health\ the\ plant\ will\ lose.\r\n\ @return\ void\r\n
+comment6.params=
+comment6.target=boolean\ isPlaced()
+comment6.text=\r\n\ Gets\ the\ placed\ status\ of\ the\ plant.\r\n\ \r\n\ @return\ boolean\ Returns\ true\ if\ the\ plant\ is\ placed,\ false\ otherwise.\r\n
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NewsZombie
+comment0.text=\r\n\ The\ NewsZombie\ class\ represents\ a\ zombie\ that\ carries\ a\ newspaper.\r\n\ It\ extends\ the\ Zombies\ class.\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NewsZombie()
+comment1.text=\r\n\ Constructor\ for\ the\ NewsZombie\ class.\r\n\ Initializes\ the\ image,\ attributes,\ and\ timers.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ It\ handles\ the\ zombie's\ behavior,\ including\ attacking\ and\ mutation.\r\n
+comment3.params=
+comment3.target=void\ attack()
+comment3.text=\r\n\ Handles\ the\ zombie's\ attacking\ behavior.\r\n\ If\ a\ plant\ is\ nearby,\ it\ attacks\ the\ plant.\r\n
+comment4.params=
+comment4.target=void\ mutate()
+comment4.text=\r\n\ Handles\ the\ zombie's\ mutation\ when\ its\ health\ drops\ below\ half.\r\n\ Changes\ its\ attributes\ to\ become\ more\ dangerous.\r\n
+comment5.params=
+comment5.target=void\ phase2()
+comment5.text=\r\n\ Represents\ the\ second\ phase\ of\ the\ zombie's\ mutation.\r\n\ Increases\ its\ speed,\ attack\ value,\ and\ attack\ speed.\r\n
+numComments=6

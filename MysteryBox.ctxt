@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MysteryBox
+comment0.text=\r\n\ Represents\ a\ mystery\ box\ that,\ when\ clicked,\ removes\ all\ zombies\ in\ the\ world\ and\ adds\ an\ explosion\ effect.\r\n\ The\ mystery\ box\ has\ multiple\ visual\ variants\ randomly\ chosen\ at\ instantiation.\r\n\ \r\n\ Note\:\ Assumes\ the\ existence\ of\ image\ files\ for\ the\ mystery\ box\ and\ explosion.\ Adjust\ the\ file\ paths\ and\ content\ as\ needed.\r\n\ \r\n\ @author\ Sana\r\n\ @version\ (A\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MysteryBox()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MysteryBox.\r\n\ Initializes\ the\ visual\ variants\ of\ the\ mystery\ box\ and\ randomly\ sets\ the\ image\ to\ one\ of\ them.\r\n\ \r\n\ @return\ void\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ MysteryBox\ class.\r\n\ Handles\ the\ behavior\ when\ the\ mystery\ box\ is\ clicked.\r\n\ Removes\ all\ zombies\ in\ the\ world,\ adds\ an\ explosion\ effect,\ and\ removes\ the\ mystery\ box.\r\n\ \r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ removeZombies()
+comment3.text=\r\n\ Removes\ all\ zombies\ in\ the\ world.\r\n\ \r\n\ @return\ void\r\n
+numComments=4

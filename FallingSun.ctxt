@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FallingSun
+comment0.text=\r\n\ Represents\ a\ falling\ sun\ that,\ when\ clicked,\ awards\ points\ to\ the\ SunCollector\ to\ purchase\ plant\ seeds.\r\n\ The\ sun\ falls\ randomly\ throughout\ the\ game,\ and\ when\ the\ user\ clicks\ on\ it,\ "money"\ is\ gained.\r\n\ \r\n\ Note\:\ Assumes\ the\ existence\ of\ an\ image\ file\ named\ "sun1.png"\ for\ visualization\ and\ a\ sound\ file\ named\ "short-success-sound-glockenspiel-treasure-video-game-6346.mp3"\ for\ sound\ effects.\r\n\ Adjust\ the\ file\ paths\ and\ content\ as\ needed.\r\n\ \r\n\ @author\ Sana\ Pardiwala\r\n\ Modified\ by\:\ Harithan\ Raveendran\r\n\ @version\ January\ 1,\ 2024\r\n
+comment1.params=
+comment1.target=FallingSun()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FallingSun.\r\n\ Initializes\ the\ falling\ sun's\ image\ and\ sets\ repetition\ to\ true.\r\n\ Adjust\ the\ image\ file\ path\ and\ content\ as\ needed.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ falling\ sun.\r\n\ Updates\ the\ sun's\ position\ based\ on\ its\ fall\ speed.\r\n\ Checks\ if\ the\ sun\ reaches\ the\ bottom\ of\ the\ world\ and\ resets\ its\ position\ to\ the\ top\ if\ needed.\r\n\ Invokes\ the\ click\ method\ to\ handle\ sun\ click\ behavior.\r\n\ \r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ click()
+comment3.text=\r\n\ Handles\ the\ behavior\ when\ the\ falling\ sun\ is\ clicked.\r\n\ Awards\ points\ to\ the\ SunCollector\ to\ purchase\ plant\ seeds\ and\ plays\ a\ sound\ effect.\r\n\ \r\n\ @return\ void\r\n
+numComments=4

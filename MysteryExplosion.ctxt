@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MysteryExplosion
+comment0.text=\r\n\ Represents\ an\ actor\ displaying\ an\ animated\ bomb\ explosion\ using\ GifImage.\r\n\ The\ class\ extends\ the\ Actor\ class\ and\ handles\ animation\ frames\ and\ removal\ when\ the\ animation\ ends.\r\n\ \r\n\ @Sana\r\n\ @version\ (A\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MysteryExplosion()
+comment1.text=\r\n\ Constructor\ for\ the\ MysteryExplosion\ class.\r\n\ Initializes\ animation\ frames,\ animation\ delay,\ and\ sets\ the\ initial\ image.\r\n\ \r\n\ @return\ void\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ Handles\ the\ animation\ frames\ and\ removal\ of\ the\ actor\ when\ the\ animation\ ends.\r\n\ \r\n\ @return\ void\r\n
+comment3.params=image
+comment3.target=void\ setImage(greenfoot.GreenfootImage)
+comment3.text=\r\n\ Overrides\ the\ setImage()\ method\ of\ the\ Actor\ class.\r\n\ Scales\ the\ image\ to\ a\ desired\ width\ and\ height.\r\n\ \r\n\ @param\ image\ -\ The\ image\ to\ set\ for\ the\ actor.\r\n\ @return\ void\r\n
+numComments=4

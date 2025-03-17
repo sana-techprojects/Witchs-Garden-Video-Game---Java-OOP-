@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FallingPot
+comment0.text=\r\n\ Represents\ a\ falling\ pot\ that,\ when\ clicked,\ slows\ down\ a\ randomly\ selected\ regular\ shooter's\ peas.\r\n\ The\ pot\ falls\ down\ the\ screen,\ and\ when\ clicked,\ it\ targets\ a\ random\ regular\ shooter\ and\ slows\ down\ its\ peas.\r\n\ \r\n\ Note\:\ Assumes\ the\ existence\ of\ an\ image\ file\ named\ "pt2.png"\ for\ visualization.\ Adjust\ the\ file\ path\ and\ content\ as\ needed.\r\n\ \r\n\ @author\ (Your\ Name)\r\n\ @version\ (A\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=FallingPot()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FallingPot.\r\n\ Initializes\ the\ falling\ speed,\ image,\ and\ repetition\ flag.\r\n\ Adjust\ the\ image\ file\ path\ and\ content\ as\ needed.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ falling\ pot.\r\n\ Delegates\ to\ the\ superclass\ act\ method.\r\n\ \r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ click()
+comment3.text=\r\n\ Handles\ the\ behavior\ when\ the\ falling\ pot\ is\ clicked.\r\n\ Slows\ down\ the\ peas\ of\ a\ randomly\ selected\ regular\ shooter.\r\n\ \r\n\ @return\ void\r\n
+numComments=4

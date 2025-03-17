@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PoleZombie
+comment0.text=\r\n\ The\ PoleZombie\ class\ represents\ a\ zombie\ that\ pole\ vaults\ over\ the\ first\ plant\ in\ its\ way,\r\n\ and\ then\ behaves\ like\ a\ normal\ zombie.\ It\ extends\ the\ Zombies\ class.\r\n\ \r\n\ @author\ Harithan\ Raveendran\r\n\ @version\ January\ 19,\ 2024\r\n
+comment1.params=
+comment1.target=PoleZombie()
+comment1.text=\r\n\ Constructor\ for\ the\ PoleZombie\ class.\r\n\ Initializes\ the\ image,\ attributes,\ and\ timers.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ It\ handles\ the\ zombie's\ behavior,\ including\ attacking\ and\ pole\ vaulting.\r\n
+comment3.params=
+comment3.target=void\ attack()
+comment3.text=\r\n\ Handles\ the\ zombie's\ attacking\ behavior.\r\n\ If\ a\ plant\ is\ nearby,\ it\ attacks\ the\ plant.\r\n\ If\ the\ zombie\ hasn't\ vaulted,\ it\ pole\ vaults\ over\ the\ first\ plant\ in\ its\ way.\r\n
+numComments=4

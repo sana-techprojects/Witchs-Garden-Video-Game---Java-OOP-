@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LevelOne
+comment0.text=\r\n\ LevelOne\ class\ represents\ the\ first\ level\ in\ the\ game.\r\n\ This\ class\ extends\ the\ base\ Levels\ class\ and\ adds\ specific\ behaviors\ and\ elements\ for\ Level\ One.\r\n\ \r\n\ @author\ Sana\ Pardiwala\r\n\ @version\ January\ 1,\ 2024\r\n\ Modified\ by\:\ Harithan\ Raveendran,\ ...\r\n
+comment1.params=
+comment1.target=LevelOne()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LevelOne.\r\n\ Initializes\ the\ level-specific\ properties\ such\ as\ initial\ zombies\ and\ spawner\ intervals.\r\n
+comment2.params=
+comment2.target=void\ stopped()
+comment2.text=\r\n\ Called\ when\ the\ world\ is\ stopped.\ Stops\ background\ music.\r\n
+comment3.params=
+comment3.target=void\ started()
+comment3.text=\r\n\ Called\ when\ the\ world\ is\ started.\ Plays\ background\ music.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ method\ is\ called\ on\ every\ frame\ update.\r\n\ Handles\ the\ spawning\ of\ falling\ suns,\ zombie\ waves,\ and\ transitions\ to\ the\ next\ level.\r\n
+comment5.params=row\ col
+comment5.target=Cell\ getCellAt(int,\ int)
+comment5.text=\r\n\ Get\ the\ cell\ at\ the\ specified\ row\ and\ column.\r\n\ \r\n\ @param\ row\ -\ The\ row\ index.\r\n\ @param\ col\ -\ The\ column\ index.\r\n\ @return\ Cell\ -\ The\ Cell\ object\ at\ the\ specified\ row\ and\ column.\r\n
+comment6.params=
+comment6.target=void\ spawnFallingSun()
+comment6.text=\r\n\ Spawn\ a\ falling\ sun\ at\ a\ random\ X-coordinate\ at\ the\ top\ of\ the\ screen.\r\n
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GoodEnd
+comment0.text=\r\n\ GoodEnd\ class\ represents\ the\ world\ for\ the\ 'Good\ Ending'\ scenario.\r\n\ This\ class\ handles\ the\ display\ of\ dialogue\ and\ progression\ of\ the\ story.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GoodEnd()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GoodEnd.\r\n\ Initializes\ the\ world\ with\ a\ specified\ size\ and\ adds\ necessary\ objects.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ is\ called\ on\ every\ frame\ update.\r\n\ Handles\ user\ input\ for\ progressing\ through\ dialogues.\r\n
+comment3.params=
+comment3.target=void\ started()
+comment3.text=\r\n\ Called\ when\ the\ world\ is\ started.\ Plays\ background\ music.\r\n
+comment4.params=
+comment4.target=void\ stopped()
+comment4.text=\r\n\ Called\ when\ the\ world\ is\ stopped.\ Stops\ background\ music.\r\n
+comment5.params=
+comment5.target=java.lang.String\ nextSentence()
+comment5.text=\r\n\ Get\ the\ next\ sentence\ in\ the\ dialogue\ sequence.\r\n\ \r\n\ @return\ String\ -\ The\ next\ sentence\ in\ the\ dialogue\ sequence.\r\n
+numComments=6

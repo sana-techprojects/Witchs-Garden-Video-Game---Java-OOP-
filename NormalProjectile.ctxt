@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NormalProjectile
+comment0.text=\r\n\ NormalProjectile\ class\ represents\ a\ projectile\ shot\ by\ peashooters\ that\ hurts\ zombies.\r\n\ \r\n\ @author\ Harithan\ Raveendran\ \r\n\ @version\ December\ 16,\ 2024\r\n
+comment1.params=image
+comment1.target=NormalProjectile(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ NormalProjectile\ with\ a\ specified\ image.\r\n\ \r\n\ @param\ image\ The\ image\ representing\ the\ projectile.\r\n
+comment2.params=image\ projectileSpeed\ type
+comment2.target=NormalProjectile(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Constructor\ for\ NormalProjectile\ with\ specified\ image,\ projectile\ speed,\ and\ type.\r\n\ \r\n\ @param\ image\ The\ image\ representing\ the\ projectile.\r\n\ @param\ projectileSpeed\ The\ speed\ at\ which\ the\ projectile\ moves.\r\n\ @param\ type\ The\ type\ of\ the\ projectile\ (unused\ parameter).\r\n
+numComments=3
